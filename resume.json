@@ -263,8 +263,24 @@
   ],
   "references": [
     {
-      "name": "Zhioua Zeineb",
-      "reference": "It is my pleasure to recommend Aymen, his performance working as a software developer for SAP proved that he will be a valuable addition to any company."
+      "name": "Ebru Polat - Senior Developer at SAP",
+      "reference": "ebru.polat@sap.com"
+    },
+	{
+      "name": "Slim Trabelsi - Senior Researcher at SAP",
+      "reference": "slim.trabelsi@gmail.com"
+    },
+	{
+      "name": "Johary Ramiarason - Advisory Consultant, IT Risk Assurance at Ernst & Young",
+      "reference": "johary.ramiarason@ch.ey.com"
+    },
+	{
+      "name": "Missaoui Hamdi - Co-Founder SmartTouch",
+      "reference": "missaoui.hamdi28@gmail.com"
+    },
+	{
+      "name": "Lotfi Ben Othman - Software Engineer",
+      "reference": "benothman.lotfi@gmail.com"
     }
   ]
 }
