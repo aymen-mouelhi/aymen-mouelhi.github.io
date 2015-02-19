@@ -1,0 +1,262 @@
+{
+  "basics": {
+    "name": "Aymen Mouelhi",
+    "label": "Software Engineer",
+    "picture": "",
+    "email": "aymen.mouelhi@gmail.com",
+    "phone": "+33 6 84 73 99 57",
+    "website": "",
+    "summary": "Full-stack Web Developer with extensive web APIs knowledge. I enjoy the challenge of working with cutting edge platforms and technologies. I have good organizational skills and can easily \"switch gears\" between platforms, languages, and development environments.",
+    "location": {
+      "address": "6 Boulevard Dugommier",
+      "postalCode": "06600",
+      "city": "Antibes",
+      "countryCode": "France",
+      "region": "PACA"
+    },
+    "profiles": [
+      {
+        "network": "linkedin",
+        "username": "aymen-mouelhi",
+        "url": "fr.linkedin.com/in/aymenmouelhi"
+      },
+      {
+        "network": "github",
+        "username": "aymen-mouelhi",
+        "url": "https://github.com/aymen-mouelhi"
+      },
+      {
+        "network": "Twitter",
+        "username": "aymenmouelhi",
+        "url": "https://twitter.com/aymenmouelhi"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "SAP",
+      "position": "Software Engineer",
+      "website": "http://go.sap.com/index.html",
+      "startDate": "2010-12-10",
+      "endDate": "",
+      "summary": "Drive design and development for Guided Procedures Authoring",
+      "highlights": [
+        "Build a robust framework to create SAP guided procedures",
+        "Create and Validate UI mockups",
+        "Optimize memory and DB for the project I am working on",
+        "Elaborate technical designs and drive development of new features"
+      ]
+    },
+    {
+      "company": "Aurone",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2008-11-01",
+      "endDate": "2009-06-01",
+      "summary": "Aurone is web development company ",
+      "highlights": [
+        "Create eCommerce web sites using Joomla"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "myhive",
+      "position": "Product Manager",
+      "website": "http://www.getmyhive.com",
+      "startDate": "2012-01-01",
+      "endDate": "",
+      "summary": "myhive is an application to identify users' interests from their social profiles",
+      "highlights": [
+        "Put in place architecture for web and mobile application",
+        "Manage a team of 2 persons",
+        "Develop Node JS, Angular JS and an Android application for the platfome"
+      ]
+    },
+    {
+      "organization": "Phone Finder",
+      "position": "Product Manager",
+      "website": "",
+      "startDate": "2011-06-01",
+      "endDate": "2011-09-30",
+      "summary": "Android Application to find phone using voice and/or SMS.",
+      "highlights": [
+        "Android SDK",
+        "Google Voice Engine",
+        "Location Listeners"
+      ]
+    },
+    {
+      "organization": "Facebook Notifier",
+      "position": "Product Manager",
+      "website": "https://play.google.com/store/apps/details?id=com.smartcodes.lum.facebook.free.popups",
+      "startDate": "2011-09-30",
+      "endDate": "2011-12-31",
+      "summary": "Android Application to get customized and instant notifications on an Android phone once you get a new message, like, comment, photo, video tags or a friend request on Facebook.",
+      "highlights": [
+        "Android SDK",
+        "Facebook API",
+        "C2DM Framework",
+        "Google App Engine",
+        "Admob",
+        "Google Analytics"
+      ]
+    },
+    {
+      "organization": "Instawallpaper",
+      "position": "Product Manager",
+      "website": "",
+      "startDate": "2012-02-01",
+      "endDate": "2012-02-19",
+      "summary": "Android application to set a phone wallpaper from instagram ",
+      "highlights": [
+        "Android SDK",
+        "Instagram API"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ecole Nationale d’Ingenieurs de Tunis",
+      "area": "Information Technology",
+      "studyType": "Master's degree",
+      "startDate": "2007-09-02",
+      "endDate": "2010-07-01",
+      "gpa": "",
+      "courses": [
+        "JEE",
+        "UML",
+        "SQL",
+        "MVC"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "Password Protection Using Personal Information",
+      "publisher": "SAP",
+      "releaseDate": "2011-12-21",
+      "website": "",
+      "summary": "Password protection using personal information on social networks"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Methodologies",
+      "level": "Master",
+      "keywords": [
+        "Scrum",
+        "Lean Startup"
+      ]
+    },
+    {
+      "name": "Architecture",
+      "level": "Master",
+      "keywords": [
+        "Yeoman",
+        "Grunt",
+        "Bower"
+      ]
+    },
+    {
+      "name": "UI/UX Design",
+      "level": "Master",
+      "keywords": [
+        "Bootstrap",
+        "Material Design"
+      ]
+    },
+    {
+      "name": "Front-end Development",
+      "level": "Master",
+      "keywords": [
+        "jQuery",
+        "AngularJS",
+        "SAP UI5",
+        "Cross-browser development"
+      ]
+    },
+    {
+      "name": "Back-end Development",
+      "level": "Master",
+      "keywords": [
+        "Node.js",
+        "Java",
+		"PHP",
+        "ABAP",
+        "Restful API"
+      ]
+    },
+	{
+      "name": "Mobile Development",
+      "level": "Master",
+      "keywords": [
+        "Android"
+      ]
+    },
+    {
+      "name": "Data Modeling",
+      "level": "Advanced",
+      "keywords": [
+        "MySQL",
+        "MongoDB",
+        "PL/SQL",
+        "ORM",
+        "HANA"
+      ]
+    },
+	{
+      "name": "Versioning",
+      "level": "Advanced",
+      "keywords": [
+        "Git"
+      ]
+    },
+    {
+      "name": "Server and Hosting Environment",
+      "level": "Master",
+      "keywords": [
+        "Linux Shell Scripting",
+        "Apache",
+        "Nginx",
+        "Heroku",
+        "Google Cloud Platform",
+        "AWS"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Bilingual proficiency"
+    },
+    {
+      "language": "French",
+      "fluency": "Bilingual proficiency"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Elementary"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Whales",
+        "Sharks"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Zhioua Zeineb",
+      "reference": "It is my pleasure to recommend Aymen, his performance working as a software developer for SAP proved that he will be a valuable addition to any company."
+    }
+  ]
+}
