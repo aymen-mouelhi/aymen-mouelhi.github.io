@@ -43,6 +43,7 @@
       "highlights": [
         "Build a robust framework to create SAP guided procedures",
         "Create and Validate UI mockups",
+		"Organize and drive design thinking sessions",
         "Optimize memory and DB for the project I am working on",
         "Elaborate technical designs and drive development of new features"
       ]
@@ -139,7 +140,14 @@
       "releaseDate": "2011-12-21",
       "website": "",
       "summary": "Password protection using personal information on social networks"
-    }
+    },
+	{
+		"name": "Guided Procedure Authoring",
+		"publisher": "SAP",
+      "releaseDate": "2014-01-10",
+      "website": "",
+      "summary": "An application to help SAP customers schedule and automatize recurring and redundant actions"
+	}
   ],
   "skills": [
     {
