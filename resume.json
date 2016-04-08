@@ -33,17 +33,6 @@
         }]
     },
     "work": [{
-        "company": "TryCatch",
-        "position": "Senior Software Engineer",
-        "website": "http://trycatch.tech/",
-        "startDate": "2016-02-01",
-        "summary": "Drive, lead and build next generation recruiting platform",
-        "highlights": [
-            "Build Automated Candidates sourcing and matching",
-            "Build Job Board Platform",
-            "Build Integration Points with ATS"
-        ]
-    }, {
         "company": "SAP",
         "position": "Software Engineer",
         "website": "http://go.sap.com/index.html",
