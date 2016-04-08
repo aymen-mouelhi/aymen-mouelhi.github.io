@@ -203,14 +203,14 @@
         "name": "Password Protection Using Personal Information",
         "publisher": "SAP",
         "releaseDate": "2011-12-21",
-        "website": "",
-        "summary": "Password protection using personal information on social networks"
+        "website": "https://www.google.com/patents/US8539599",
+        "summary": "Provided personal information from a user may be determined, the provided personal information being associated with network publication thereof. A comparison of the provided personal information with password-related information may be performed. Based on the comparison, it may be determined that a risk level associated with the network publication relative to password security of at least one password associated with the password-related information exceeds a predetermined risk level. The user may be notified that the network publication of the provided personal information is associated with potential compromise of the password security of the at least one password."
     }, {
         "name": "Guided Procedure Authoring",
         "publisher": "SAP",
         "releaseDate": "2014-01-10",
-        "website": "",
-        "summary": "An application to help SAP customers schedule and automatize recurring and redundant actions"
+        "website": "https://www.google.com/patents/US20140026045",
+        "summary": "A software system maintains a plurality of procedures in an infrastructure. The procedures include step by step instructions relating to assisting a user of the infrastructure. The system also provides a software tool via a user interface relating to the plurality of procedures. The software tool is configured to permit a user to create a procedure, to activate the procedure, and to publish the availability of the procedure."
     }],
     "skills": [{
         "name": "Methodologies",
