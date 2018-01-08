@@ -182,8 +182,31 @@
     ]
   }],
   "education": [{
+    "institution": "MIT",
+    "area": "Computer Science",
+    "studyType": "Certificate",
+    "startDate": "2018-01-08",
+    "gpa": "",
+    "courses": [
+      "MIT 6.S094: Deep Learning for Self-Driving Cars"
+    ]
+  },
+  {
+    "institution": "Udacity",
+    "area": "Machine Learning Engineer Nanodegree",
+    "studyType": "Certificate",
+    "startDate": "2017-05-02",
+    "endDate": "2017-11-20",
+    "gpa": "",
+    "courses": [
+      "Supervized Learning",
+      "Unsupervized Learning",
+      "Reinforcement Learning",
+      "Deep Learning"
+    ]
+  }, {
     "institution": "Ecole Nationale d’Ingenieurs de Tunis",
-    "area": "Information Technology",
+    "area": "Computer Science",
     "studyType": "Master's degree",
     "startDate": "2007-09-02",
     "endDate": "2010-07-01",
@@ -308,7 +331,7 @@
         "Git"
       ]
     }, {
-      "name": "Server and Hosting Environment",
+      "name": "Servers and Cloud Environments",
       "level": "Master",
       "keywords": [
         "Linux Shell Scripting",
@@ -341,17 +364,21 @@
     ]
   }],
   "references": [{
-    "name": "Ebru Polat - Senior Developer at SAP",
+    "name": "Olena Kushakovska,   Site Director SAP Labs France and Product Manager for Services for SAP HANA Rapid Deployment Scenarios; SAP Solution Manager Unified directory Graphical display and SAP IT Mobile applications",
+    "reference": "olena.kushakovska@sap.com"
+  },{
+    "name": "Ebru Polat - Expert Developer at SAP",
     "reference": "ebru.polat@sap.com"
-  }, {
+  },{
+    "name": "Serge Fabiano - Expert Developer at SAP",
+    "reference": "serge.fabiano@sap.com"
+  },
+  {
     "name": "Slim Trabelsi - Senior Researcher at SAP",
-    "reference": "slim.trabelsi@gmail.com"
+    "reference": "slim.trabelsi@sap.com"
   }, {
     "name": "Johary Ramiarason - Advisory Consultant, IT Risk Assurance at Ernst & Young",
     "reference": "johary.ramiarason@ch.ey.com"
-  }, {
-    "name": "Missaoui Hamdi - Co-Founder SmartTouch",
-    "reference": "missaoui.hamdi28@gmail.com"
   }, {
     "name": "Lotfi Ben Othman - Software Engineer",
     "reference": "benothman.lotfi@gmail.com"
